@@ -1,0 +1,2 @@
+File file = new File("filepath");
+boolean fStatus = file.createNewFile();
